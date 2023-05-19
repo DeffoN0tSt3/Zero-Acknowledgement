@@ -19,10 +19,14 @@ To contribute to this repository, please adhere to the following guidelines:
 
 Please note that all contributions should be respectful and objective, focusing solely on the lack of acknowledgment. This repository aims to promote positive change and awareness rather than fostering negativity or hostility.
 
+For more information on contributing, see: [CONTRIBUTING.MD](https://github.com/DeffoN0tSt3/Zero-Acknowledgement/blob/main/CONTRIBUTING.md)
+
 We appreciate your contributions in advancing the acknowledgment culture within the security research community. Together, let's foster a more inclusive and appreciative environment for all security researchers.
+
+### What is an Acknowledgement Page?
+For information and examples of Acknolwedgement pages, see
+[WHAT_IS_AN_ACKNOWLEDGEMENT_PAGE.md](https://github.com/DeffoN0tSt3/Zero-Acknowledgement/blob/main/WHAT_IS_AN_ACKNOWLEDGEMENT_PAGE.md)
+
 
 ## Disclaimer
 The Zero-Acknowledgement Repository is an open resource and does not intend to defame or harm any entity listed. The inclusion of an entity in this repository simply highlights the absence of public acknowledgment and serves as an opportunity for them to improve their security practices.
-
-## License
-n/a
