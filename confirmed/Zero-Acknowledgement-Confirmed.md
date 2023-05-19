@@ -2,6 +2,8 @@
 
 Welcome to the Zero Acknowledgement Confirmed list, a compilation of entities that have been confirmed to lack public acknowledgment of security researchers who submit valid reports. This list aims to raise awareness and encourage these entities to improve their practices in recognizing the contributions of security researchers.
 
+### Entities will only be added to this page when confirmed not to serve a valid Acknowledgement Page or similar
+
 ## Jump To
 
 - [Technology Companies](#technology-companies)
@@ -14,7 +16,7 @@ Welcome to the Zero Acknowledgement Confirmed list, a compilation of entities th
 
 | Entity Name          | Industry            | Evidence/Reference/PR                                          | Description                                                 |
 | -------------------- | ------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| Example Tech Company | Technology           | [Reference 1](https://example.com)                          | Description of the lack of acknowledgment for this entity.  |
+| [Insprire Web Development](https://www.inspire.scot) | Technology           | [https://www.inspire.scot](https://www.inspire.scot)                          | Zero acknowledgement page available  |
 
 ## Government Bodies
 
