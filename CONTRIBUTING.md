@@ -19,8 +19,8 @@ To add an entity to the repository, please follow these steps:
 
 When contributing to the Zero-Acknowledgment Repository, please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Treat all contributors and participants with respect and create an inclusive environment for everyone involved.
 
-## Reporting Issues
+## Reporting Issues / Suggestions
 
 If you encounter any issues or have suggestions for improving the repository, please [open an issue](https://github.com/DeffoN0tSt3/Zero-Acknowledgement/issues). We appreciate your feedback and contributions in making this repository more effective and valuable.
 
-Thank you for your contributions and dedication to promoting acknowledgment and recognition within the security research community!
+Thank you in advacned for your contributions and dedication to promoting acknowledgment and recognition within the security research community!
