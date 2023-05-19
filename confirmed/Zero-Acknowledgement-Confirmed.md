@@ -20,7 +20,7 @@ Welcome to the Zero Acknowledgement Confirmed list, a compilation of entities th
 
 | Entity Name           | Industry            | Evidence/Reference/PR                                          | Description                                                 |
 | --------------------- | ------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| Example Government    | Government           | [Reference 1](https://example.com)                          | Description of the lack of acknowledgment for this entity.  |
+| [NHS.UK](https://www.nhs.uk/)    | Government           | [Reference 1](https://github.com/DeffoN0tSt3/Zero-Acknowledgement/blob/main/confirmed/Selection_005.png)                          | No acknowledgement page available for reports made direct.  |
 
 ## Non-Profit Organizations
 
