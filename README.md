@@ -1,5 +1,7 @@
 # Zero-Acknowledgement
 
+[See Confirmed Zero Acknowledgement List](https://github.com/DeffoN0tSt3/Zero-Acknowledgement/blob/main/confirmed/Zero-Acknowledgement-Confirmed.md)
+
 The  Zero-Acknowledgment Repository serves as a platform to bring attention to companies, organizations, and government entities that neglect to publicly recognize the valuable contributions made by security researchers who submit valid reports. 
 
 ## Purpose
