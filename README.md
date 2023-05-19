@@ -17,10 +17,10 @@ To contribute to this repository, please adhere to the following guidelines:
 
 Please note that all contributions should be respectful and objective, focusing solely on the lack of acknowledgment. This repository aims to promote positive change and awareness rather than fostering negativity or hostility.
 
+We appreciate your contributions in advancing the acknowledgment culture within the security research community. Together, let's foster a more inclusive and appreciative environment for all security researchers.
+
 ## Disclaimer
 The Zero-Acknowledgement Repository is an open resource and does not intend to defame or harm any entity listed. The inclusion of an entity in this repository simply highlights the absence of public acknowledgment and serves as an opportunity for them to improve their security practices.
 
 ## License
 n/a
-
-We appreciate your contributions in advancing the acknowledgment culture within the security research community. Together, let's foster a more inclusive and appreciative environment for all security researchers.
