@@ -13,7 +13,7 @@ Acknowledging the efforts and expertise of security researchers is crucial for m
 
 #### Food for thought.. 
 
-As per ISO 29147 standard, Section 2 Vulnerability Disclosure Policy
+##### As per ISO 29147 standard, Section 2 Vulnerability Disclosure Policy:
 
 > To support positive engagement with Reporters, the Policy should also state how, and
 under what circumstances, the Reporter will be recognised for their contribution.
@@ -23,14 +23,13 @@ original reporting page. However, such recognition must only be done with the
 Reporter’s written agreement and with clarification on how they want to be identified,
 e.g., Reporter’s Name + Employer Name, or Reporter’s Name + Twitter handle etc.,
 whatever they reasonably request.
-`
 
-As per [NCSC.gov.uk](https://www.ncsc.gov.uk/files/NCSC-Vulnerability-disclosure-Toolkit-v2.pdf) Section 7 Vulnerability Disclosure Toolkit:
+
+##### As per [NCSC.gov.uk](https://www.ncsc.gov.uk/files/NCSC-Vulnerability-disclosure-Toolkit-v2.pdf) Section 7 Vulnerability Disclosure Toolkit:
 
 
 > Consider publicly acknowledging and thanking the finder as this creates a sense of trust and
 transparency.
-
 
 
 The Zero-Acknowledgment Repository seeks to address situations where entities neglect to provide proper acknowledgment to security researchers. By publicly identifying these cases, the repository aims to:
